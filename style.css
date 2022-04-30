@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-family: fantasy;
+    font-weight: 300;
+    color: firebrick;
+}
+.line{
+    height: 10px;
+    background-color: darkslategrey;
+    width: 700px;
+    margin: 8px auto;
+}
+#Games{
+    background-image: url(https://code.org/shared/images/courses/logo_gamelab_square.png);
+}
+#Apps{
+    background-image: url(https://code.org/images/app-lab/applab-tool.png);
+}
+#stickman_game{
+    width: 350px;
+    height: 350px;
+}
+#pop_game{
+    width: 350px;
+    height: 350px;
+}
+#ChatBot{
+    background-image: url(https://www.outsystems.com/Forge_BL/rest/ComponentThumbnail/GetURL_ComponentThumbnail?ProjectImageId=30783);
+}
